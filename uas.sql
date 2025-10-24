@@ -1,4 +1,4 @@
--- nama dbL user
+-- nama db: user
 CREATE TABLE tb_users (
   id_user INT AUTO_INCREMENT PRIMARY KEY,
   username VARCHAR(50) UNIQUE NOT NULL,
